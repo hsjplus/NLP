@@ -1,3 +1,3 @@
-# NLP
+# Natural Language Processing
 ## 1. NNLM 
-## 2. 
+## 2. Skip-gram
