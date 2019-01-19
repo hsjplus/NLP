@@ -1,3 +1,4 @@
 # Natural Language Processing
-## 1. NNLM 
-## 2. Skip-gram
+## Movie2Vec - 한국인공지능연구소 3기 C'est La Vie Project
+## NNLM 
+## Skip-gram
